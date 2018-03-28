@@ -57,6 +57,7 @@
 }
  
 .wrap .footer{
-	width: 100%;
+	background-color: pink;
+	--width: 90;
 	padding: 10px;
 }	
