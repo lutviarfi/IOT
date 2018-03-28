@@ -55,9 +55,14 @@
 	height: 100%;
 	width: 75%;	
 }
- 
+
+/*awal footer */ 
 .wrap .footer{
-	background-color: pink;
 	--width: 90;
 	padding: 10px;
-}	
+}
+
+.container{
+	background-color: #FFE4C4;
+	text-align: center;
+}
