@@ -3,7 +3,7 @@
 	width: 100%;
 	margin: 1px auto;
 }
- 
+
 /*bagian header*/
 .wrap .header{
 	background: green;
@@ -14,21 +14,21 @@
 	/*height: 50px;*/
 	padding: 2px 1px;
 }
- 
+
 /*akhir header*/
- 
+
 /*bagian menu*/
 .wrap .menu{
 	background-color:#f1f1f1;
 }
- 
+
 .wrap .menu ul{
 	padding: 0;
 	margin: 0;
 	background-color:#f1f1f1;
 	overflow: hidden;
 }
- 
+
 .wrap .menu ul li{
 	float: left;
 	list-style-type: none;
@@ -82,32 +82,32 @@ ul.menu li.dropdown{
   display:block;
 }
 /*akhir menu*/
- 
+
 .clear{
 	clear: both;
 }
- 
+
 .badan{
 	height: 450px;
 }
 /*bagian sidebar*/
 .wrap .badan .sidebar{
 	background: orange;
-	float: left;	
+	float: left;
 	width: 25%;
 	height: 100%;
 }
- 
+
 /*akhir sidebar*/
- 
+
 .wrap .badan .content{
-	background: red;
+	background-image:url(bg.jpg);
 	float: left;
 	height: 100%;
-	width: 75%;	
+	width: 75%;
 }
- 
+
 .wrap .footer{
 	width: 100%;
 	padding: 10px;
-}	
+}
