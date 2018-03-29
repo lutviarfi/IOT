@@ -1,5 +1,4 @@
 .wrap{
-	background: blue;
 	width: 100%;
 	margin: 1px auto;
 }
@@ -107,7 +106,13 @@ ul.menu li.dropdown{
 	width: 75%;
 }
 
+/*awal footer */
 .wrap .footer{
-	width: 100%;
+	--width: 90;
 	padding: 10px;
+}
+
+.container{
+	background-color: #FFE4C4;
+	text-align: center;
 }
